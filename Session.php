@@ -7,7 +7,7 @@
  * @access public
  */
 
-namespace Helpers\Session;
+namespace Session;
 
 class Session{
 
