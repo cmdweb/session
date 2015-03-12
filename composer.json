@@ -9,5 +9,9 @@
   ],
   "keywords": ["alcatraz", "session"],
   "license": "MIT",
-  "type": "library"
+  "type": "library",
+   "autoload": {
+        "psr-0": { "Session\\": "" }
+    },
+	"target-dir": "Session"
 }
