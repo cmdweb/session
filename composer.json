@@ -7,7 +7,7 @@
       "email": "g@gmalaquias.com"
     }
   ],
-  "keywords": ["framework", "alcatraz", "session"],
+  "keywords": ["alcatraz", "session"],
   "license": "MIT",
   "type": "library",
    "autoload": {
