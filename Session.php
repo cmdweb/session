@@ -7,7 +7,7 @@
  * @access public
  */
 
-namespace Session;
+namespace Alcatraz\Session;
 
 class Session{
 
