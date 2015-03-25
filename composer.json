@@ -11,7 +11,7 @@
   "license": "MIT",
   "type": "library",
    "autoload": {
-        "psr-0": { "Alcatraz\\Session\\": "" }
+        "psr-0": { "Alcatraz\\Components\\Session\\": "" }
     },
-	"target-dir": "Alcatraz/Session"
+	"target-dir": "Alcatraz/Components/Session"
 }

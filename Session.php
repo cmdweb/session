@@ -7,7 +7,7 @@
  * @access public
  */
 
-namespace Alcatraz\Session;
+namespace Alcatraz\Components\Session;
 
 class Session{
 
